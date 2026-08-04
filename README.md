@@ -1,4 +1,4 @@
-# [《多模态人体动作对齐研究及其应用》](https://mp.weixin.qq.com/s/MqZ-nsjD9NePI57DaPIi-w), [CSIG青年科学家会议2026优博论坛](https://mp.weixin.qq.com/s/SaY0wE2X4VIreqTZX5GGJg)
+# [《多模态人体动作对齐研究及其应用》](https://mp.weixin.qq.com/s/MqZ-nsjD9NePI57DaPIi-w), [CSIG青年科学家会议2026优博论坛](https://mp.weixin.qq.com/s/SaY0wE2X4VIreqTZX5GGJg)，[PPT(百度网盘)](https://pan.baidu.com/s/1xSBwH5eBc3OgwBpTNtDIiw?pwd=k2ap)，[PPT（github）](https://github.com/hongsong-wang/HumanMotionAlignment/blob/main/%E5%A4%9A%E6%A8%A1%E6%80%81%E4%BA%BA%E4%BD%93%E5%8A%A8%E4%BD%9C%E5%AF%B9%E9%BD%90%E7%A0%94%E7%A9%B6%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.pdf)
 
 # 报告摘要
 随着多模态大模型、基础模型和数字人技术的快速发展，人体动作与文本、语音、图像等多模态信息之间的语义对齐问题受到广泛关注。多模态人体动作对齐旨在建立不同模态与人体运动表示之间的统一语义空间，实现跨模态理解、检索、生成与编辑，为数字人、虚拟现实、人机交互及具身智能等应用提供基础支撑。本报告首先系统介绍多模态人体动作对的研究进展，然后主要介绍我们在文本生成动作、音频生成动作、统一动作表示和零样本行为理解等典型任务的研究成果。最后，报告总结多模态人体动作对齐研究面临的数据稀缺、语义抽象、模态异构、动作表示统一性不足等问题，并结合大模型、世界模型和具身智能的展望发展趋势。
